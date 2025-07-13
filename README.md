@@ -1,3 +1,3 @@
 # ProGamer
 
-https://olxf.github.io/ProGamer/
+https://codiv1.github.io/ProGamer/
